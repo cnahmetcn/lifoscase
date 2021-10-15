@@ -18,19 +18,19 @@ Bu proje gider takibinin yapıldığı, giderlerin ne zaman ve nerede harcandı�
 ## Görseller
 
 ### Gider Listeleme Ekranı
-![Gider Listeleme Ekranı](/images/listeleme.png)
+![Gider Listeleme Ekranı](/images/listeleme.PNG)
 
 ### Herhangi Bir Gideri Görüntüleme
 ![Herhangi Bir Gideri Görüntüleme](/images/görüntüleme.PNG)
 
 ### Yeni Gider Ekleme
-![Yeni Gider Ekleme](/images/yeniekleme.png)
+![Yeni Gider Ekleme](/images/yeniekleme.PNG)
 
 ### Herhangi Bir Gideri Düzenleme
-![Herhangi Bir Gideri Düzenleme](/images/düzenleme.png)
+![Herhangi Bir Gideri Düzenleme](/images/düzenleme.PNG)
 
 ### Kategori Listeleme
-![Kategori Listeleme](/images/kategorirapor.png)
+![Kategori Listeleme](/images/kategorirapor.PNG)
 
 ### Haritada Gösterme
-![Haritada Gösterme](/images/harita.png)
+![Haritada Gösterme](/images/harita.PNG)
