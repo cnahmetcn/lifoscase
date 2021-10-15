@@ -21,7 +21,7 @@ Bu proje gider takibinin yapıldığı, giderlerin ne zaman ve nerede harcandı�
 ![Gider Listeleme Ekranı](/images/listeleme.png)
 
 ### Herhangi Bir Gideri Görüntüleme
-![Herhangi Bir Gideri Görüntüleme](/images/görüntüleme.png)
+![Herhangi Bir Gideri Görüntüleme](/images/görüntüleme.PNG)
 
 ### Yeni Gider Ekleme
 ![Yeni Gider Ekleme](/images/yeniekleme.png)
